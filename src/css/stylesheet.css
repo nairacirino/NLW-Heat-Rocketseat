@@ -1,20 +1,79 @@
 /* Cascating Stylesheet */
 
+h1, p, a {
+    margin: 0;
+}
+
 html, body {
     height: 100%;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased; 
+    --grey: hsl(240, 9%, 89%);
+    --black: hsl(240, 6%, 13%);
 }
 
 body {
     display: grid;
     place-items: center;
-    background: lightblue;
+    color: var(--grey);
+}
+
+main {
+    background:url("../images/background.svg");
+    width: 375px;
+    height: 812px;
+}
+
+.container {
+    max-width: 250px;
+    margin-top: 11.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.avatar {
+    width: 15rem;
+    position: relative;
+}
+
+.avatar span {
+    position: absolute;
+    top: -15px;
+    z-index: 1; /* trabalha o posicionamento no eixo z, que é a profundidade da página */
+}
+
+.avatar > img {
+    width: 10rem;
+    height: 11.5rem;
+    object-fit: cover; /* restaura a proporção original da imagem utilizada */
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); /*recorta a imagem conforme instruções. É possível usar um gerador de código online */
 }
 
 h1 {
     font-size: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 a {
-    color: black;
+    color: var(--grey);
     text-decoration: none;
+    margin-top: 0.25rem;
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin-top: 2rem;
+}
+
+ul {
+    margin-top: 4rem;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem; /* cria espaço entre os itens */
 }
