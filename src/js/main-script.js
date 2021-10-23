@@ -1,12 +1,17 @@
 var linksSocialMedia = {
-    githubUser: "nanacirino",
-    instagramUser: "nairacirino",
-    twitterUser: "nanacirino",
-    youtubeUser: "UCC6IgRj9zFmawRlhagSeIcA",
-    facebookUser: "naira.cirino", 
+    github: "nanacirino",
+    instagram: "nairacirino",
+    twitter: "nanacirino",
+    youtube: "UCC6IgRj9zFmawRlhagSeIcA",
+    facebook: "naira.cirino", 
 }
 
 function changeSocialMediaLinks () {
-    alert(user.githubUser)
+    for (let li of socialLinks.children) {
+        let social = li.children[0].id 
+
+        let link = li.children[0].href= `https://www.${social}.com/${linksSocialMedia[social]}`
+    }
 }
 
+changeSocialMediaLinks();
