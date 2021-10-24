@@ -1,4 +1,4 @@
-# New Level Week Heat - Rocketseat - Origins
+# Next Level Week Heat - Rocketseat - Origins
 Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
 
 Trata-se de um layout de aplicação onde as pessoas podem gerar um crachá virtual para participar do evento Do While 2021. É uma aplicação simples que visa ensinar os fundamentos da programação.
