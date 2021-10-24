@@ -1,5 +1,5 @@
 var linksSocialMedia = {
-    github: "nanacirino",
+    github: "nairacirino",
     instagram: "nairacirino",
     twitter: "nanacirino",
     youtube: "UCC6IgRj9zFmawRlhagSeIcA",
