@@ -1,6 +1,6 @@
-<h1> # Next Level Week Heat - Rocketseat - Origins </h1>
+# Next Level Week Heat - Rocketseat - Origins
 
-<img align="right" height="590em" src="screenshot.png"/>
+<img align="right" src="screenshot.png"/>
             
 Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
 
