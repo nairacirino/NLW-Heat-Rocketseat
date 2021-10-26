@@ -3,7 +3,7 @@ Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocket
 
 Trata-se de um layout de aplicação onde as pessoas podem gerar um crachá virtual para participar do evento Do While 2021. É uma aplicação simples que visa ensinar os fundamentos da programação.
 
-O layout original pode ser visualizado no <a target="_blank" href="https://www.figma.com/community/file/1031698737363668691">Figma</a>. O deploy está disponível <a target="_blank" href="https://nairacirino.github.io/nlw-heat/">aqui</a>. Foram usados no projeto: HTML5, CSS3, Javascript e JSON e abordados brevemente os seguintes conceitos:
+O layout original pode ser visualizado no <a target="_blank" href="https://www.figma.com/community/file/1031698737363668691">Figma</a>. O deploy está disponível <a target="_blank" href="https://nairacirino.github.io/NLW-Heat-Rocketseat/">aqui</a>. Foram usados no projeto: HTML5, CSS3, Javascript e JSON e abordados brevemente os seguintes conceitos:
 <ul>
     <li>Fundamentos Web</li>
     <li>Noções de DOM</li>
