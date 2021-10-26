@@ -1,7 +1,11 @@
 # Next Level Week Heat - Rocketseat - Origins
 
-<img align="right" src="screenshot.png"/>
-            
+https://img.shields.io/badge/<STATUS>-<COMPLETE>-<BLUE>
+
+<img align="right" src="screenshot.png" alt="screenshot do deploy"/>
+
+## DESCRIÇÃO
+
 Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
 
 Trata-se de um layout de aplicação onde as pessoas podem gerar um crachá virtual para participar do evento Do While 2021. É uma aplicação simples, com objetivo introdutório, não sendo aprofundados os conceitos, com baixa complexidade e que visa ensinar os fundamentos da programação.
@@ -17,6 +21,14 @@ O layout original pode ser visualizado no <a target="_blank" href="https://www.f
                 <li>APIs</li>
                 <li>JSON.</li>
             </ul>
+
+## ETAPAS DE CONSTRUÇÃO
+
+Criamos um crachá genérico em HTML, seguindo o layout disponível no Figma e fazendo as divisões de maneira alinhada aos estilos que seriam aplicados com o CSS criado posteriormente. Utilizamos o CSS, então, para equiparar o layout ao disponibilizado no Figma. 
+
+Com o JS e usando uma API em JSON fizemos as alterações do arquivo padrão para personalizarmos o crachá com as nossas informações e links para as redes sociais.  
+
+## CONSIDERAÇÕES
 
 Foi interessante participar dos webinários e construir o projeto pois, como iniciante em programação, ainda não tinha sido apresentada ao JSON em projetos anteriores. Tive também meu primeiro contato direto com o Figma, que pretendo explorar em outros cursos, webnários e projetos futuros.</p>
 
