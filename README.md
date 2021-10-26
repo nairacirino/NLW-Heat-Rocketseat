@@ -1,8 +1,11 @@
 # Next Level Week Heat - Rocketseat - Origins
 
-https://img.shields.io/badge/STATUS-Complete-blue
+<img src="https://img.shields.io/badge/STATUS-Complete-blue" alt="badge"/>
 
 <img align="right" src="screenshot.png" alt="screenshot do deploy"/>
+
+## TABELA DE CONTEUDOS
+   * [Descrição](#DESCRIÇÃO)
 
 ## DESCRIÇÃO
 
@@ -10,7 +13,17 @@ Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocket
 
 Trata-se de um layout de aplicação onde as pessoas podem gerar um crachá virtual para participar do evento Do While 2021. É uma aplicação simples, com objetivo introdutório, não sendo aprofundados os conceitos, com baixa complexidade e que visa ensinar os fundamentos da programação.
 
-O layout original pode ser visualizado no <a target="_blank" href="https://www.figma.com/community/file/1031698737363668691">Figma</a>. O deploy está disponível <a target="_blank" href="https://nairacirino.github.io/NLW-Heat-Rocketseat/">aqui</a>. Foram usados no projeto: HTML5, CSS3, Javascript e JSON e abordados brevemente os seguintes conceitos:
+O layout original pode ser visualizado no <a target="_blank" href="https://www.figma.com/community/file/1031698737363668691">Figma</a>. 
+
+## DEPLOY
+
+O deploy está disponível <a target="_blank" href="https://nairacirino.github.io/NLW-Heat-Rocketseat/">aqui</a>.
+
+## LINGUAGENS E FERRAMENTAS UTILIZADAS
+
+Foram usados no projeto: HTML5, CSS3, Javascript e JSON. O layout foi replicado a partir do Figma.  
+
+No webinário foram abordados brevemente os seguintes conceitos:
             <ul>
                 <li>Fundamentos Web</li>
                 <li>Noções de DOM</li>
@@ -21,6 +34,8 @@ O layout original pode ser visualizado no <a target="_blank" href="https://www.f
                 <li>APIs</li>
                 <li>JSON.</li>
             </ul>
+
+Além do que já foi mencionado, utilizei no projeto o VS Code e o Github desktop. 
 
 ## ETAPAS DE CONSTRUÇÃO
 
