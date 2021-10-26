@@ -1,6 +1,11 @@
-# Next Level Week Heat - Rocketseat - Origins
+<h1> # Next Level Week Heat - Rocketseat - Origins </h1>
 
-Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
+<p align=left>
+            
+            Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
+</p>
+
+<img align="right" height="590em" src="screenshot.png"/>
 
 Trata-se de um layout de aplicação onde as pessoas podem gerar um crachá virtual para participar do evento Do While 2021. É uma aplicação simples, com objetivo introdutório, não sendo aprofundados os conceitos, e com baixa complexidade que visa ensinar os fundamentos da programação.
 
@@ -16,7 +21,5 @@ O layout original pode ser visualizado no <a target="_blank" href="https://www.f
                 <li>JSON.</li>
             </ul>
 
-Foi interessante participar dos webinários e construir o projeto pois, como iniciante em programação, ainda não tinha sido apresentada ao JSON em projetos anteriores. Tive também meu primeiro contato direto com o Figma, que pretendo explorar em outros cursos, webnários e projetos futuros.
-
-![Screenshot](screenshot.png)
+Foi interessante participar dos webinários e construir o projeto pois, como iniciante em programação, ainda não tinha sido apresentada ao JSON em projetos anteriores. Tive também meu primeiro contato direto com o Figma, que pretendo explorar em outros cursos, webnários e projetos futuros.</p>
 
