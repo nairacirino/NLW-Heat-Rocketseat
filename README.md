@@ -5,13 +5,13 @@
 <img align="right" src="screenshot.png" alt="screenshot do deploy"/>
 
 ## SUMARIO
-   * [Descrição](#DESCRIÇÃO)
+   * [Descrição do Projeto](#DESCRIÇÃO-DO-PROJETO)
    * [Deploy](#DEPLOY)
    * [Linguagens e ferramentas utilizadas](#LINGUAGENS-E-FERRAMENTAS-UTILIZADAS)
    * [Etapas de construção](#ETAPAS-DE-CONSTRUÇÃO)
    * [Considerações](#CONSIDERAÇÕES)
 
-## DESCRIÇÃO
+## DESCRIÇÃO DO PROJETO
 
 Projeto desenvolvido na missão Origin do NLW Heat, evento produzido pela Rocketseat em Outubro de 2021.
 
