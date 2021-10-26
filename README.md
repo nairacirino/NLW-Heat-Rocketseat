@@ -15,7 +15,4 @@ O layout original pode ser visualizado no <a target="_blank" href="https://www.f
     <li>JSON.</li>
 </ul>
 
-
-
-
-
+É um projeto com objetivo introdutório, não sendo aprofundados os conceitos e com baixa complexidade.
