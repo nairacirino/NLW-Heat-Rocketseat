@@ -5,6 +5,7 @@
 ## SUMARIO
 
 <img align="right" src="screenshot.png" alt="screenshot do deploy"/>
+<p align="left" min-width="100px">
 
    * [Descrição do Projeto](#DESCRIÇÃO-DO-PROJETO)
    * [Deploy](#DEPLOY)
