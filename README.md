@@ -16,3 +16,5 @@ O layout original pode ser visualizado no <a target="_blank" href="https://www.f
 </ul>
 
 Foi interessante participar dos webinários e construir o projeto pois, como iniciante em programação, ainda não tinha sido apresentada ao JSON em projetos anteriores. Tive também meu primeiro contato direto com o Figma, que pretendo explorar em outros cursos, webnários e projetos futuros. 
+
+![Screenshot](screenshot.png)
