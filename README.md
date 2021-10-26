@@ -4,8 +4,7 @@
 
 ## SUMARIO
 
-<img align="right" src="screenshot.png" alt="screenshot do deploy"/>
-<p align="left" min-width="100px">
+<img align="right" src="screenshot.png" alt="screenshot do deploy" max-width="30%"/>
 
    * [Descrição do Projeto](#DESCRIÇÃO-DO-PROJETO)
    * [Deploy](#DEPLOY)
