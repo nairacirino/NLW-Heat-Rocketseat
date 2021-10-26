@@ -1,6 +1,6 @@
 # Next Level Week Heat - Rocketseat - Origins
 
-https://img.shields.io/badge/<STATUS>-<COMPLETE>-<BLUE>
+https://img.shields.io/badge/STATUS-Complete-blue
 
 <img align="right" src="screenshot.png" alt="screenshot do deploy"/>
 
