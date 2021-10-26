@@ -2,9 +2,10 @@
 
 <img src="https://img.shields.io/badge/STATUS-Complete-blue" alt="badge"/>
 
+## SUMARIO
+
 <img align="right" src="screenshot.png" alt="screenshot do deploy"/>
 
-## SUMARIO
    * [Descrição do Projeto](#DESCRIÇÃO-DO-PROJETO)
    * [Deploy](#DEPLOY)
    * [Linguagens e ferramentas utilizadas](#LINGUAGENS-E-FERRAMENTAS-UTILIZADAS)
